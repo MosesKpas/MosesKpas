@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 À propos de moi :
 🔭 Je travaille actuellement sur JSound<br>🌱 J'apprends le dev. mobile<br>⚡ Fun fact
 
 
